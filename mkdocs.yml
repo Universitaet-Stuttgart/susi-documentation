@@ -13,8 +13,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
-edit_uri: https://github.com/KatLily-74656/susi-doc/tree/master/docs
-repo_url: https://github.com/KatLily-74656/susi-doc
+edit_uri: https://github.com/Universitaet-Stuttgart/susi-documentation/tree/master/docs
+repo_url: https://github.com/Universitaet-Stuttgart/susi-documentation
 repo_name: susi-doc
 copyright: Copyright &copy; Universität Stuttgart
 theme:
