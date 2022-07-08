@@ -1,9 +1,11 @@
-# Introduction to SusI
+# Project Motivation
 
-Here the project will be described
+## TODO:
 
-<figure markdown>
-  |![SusI Overview Graphic](../images/susi_grafik.jpg){: style="max-width: 100%"}|
-  |:---:|
-  |<figcaption>SusI Overview</figcaption>|
-</figure>
+Was haben wir gemacht? 
+
+Genauer: Warum haben wir das so gemacht? => Idee hinter dem Projekt ( Warum sollte man das nutzen?)
+
+Idee hinter ausführbarem Code => Motivation
+
+Wie kann man davon profitieren? 

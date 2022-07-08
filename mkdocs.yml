@@ -13,7 +13,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
-edit_uri: https://github.com/Universitaet-Stuttgart/susi-documentation/tree/master/docs
+edit_uri: https://github.com/Universitaet-Stuttgart/susi-documentation/tree/main/docs
 repo_url: https://github.com/Universitaet-Stuttgart/susi-documentation
 repo_name: susi-documentation
 copyright: Copyright &copy; Universität Stuttgart
@@ -47,6 +47,7 @@ theme:
         name: Switch to light mode
 nav:
   - index.md
-  - Project: project/index.md
+  - Motivation: project/index.md
+  - Overview: project/project.md
 extra:
   collapse_toc: false

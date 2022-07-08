@@ -4,7 +4,7 @@
 
 The project SusI has the goal to make the Open-Source-Simulationsoftware DuMu<sup>x</sup> usable for a larger group of scientists. Moreover the insights gained using DuMu<sup>x</sup> together with the used code should be able to be saved, called and reused using [DaRUS](https://www.izus.uni-stuttgart.de/fokus/darus), the managing system for resarch data of the University of Stuttgart. 
 
-**Finanziert durch:**
+**Financed By:**
 
 Deutsche Forschungs­gemeinschaft ([DFG](https://www.dfg.de/))
 <figure markdown>
@@ -13,21 +13,31 @@ Deutsche Forschungs­gemeinschaft ([DFG](https://www.dfg.de/))
   |<figcaption>DFG</figcaption>|
 </figure>
 
-**Projektlaufzeit:**
+**Project Duration:**
 
-Februar 2019 - September 2022
+February 2019 - September 2022
 
-**Projektpartner:**
+**Project Partners:**
 
 - Technische Informations- und Kommunikationsdienste ([TIK](https://www.tik.uni-stuttgart.de/))
 - Universitätsbibliothek Stuttgart­ ([UB](https://www.ub.uni-stuttgart.de/index.html))
 - Institut für Wasser- und Umwelt­system­modellierung ([IWS](https://www.iws.uni-stuttgart.de/))
 
-**Beteiligte?**
+**Participants:** 
+
+- apl. Prof. Dr. rer. nat. Bernd Flemisch (Projektleiter) 
+- Dr.-Ing. Kilian Weishaupt (Alumnus)
+- Dr.-Ing. Timo Koch
+- Dr.-Ing. Dennis Gläser 
+- Sarbani Roy Ph.D.
+- Dipl.-Ing. Sibylle Hermann
+- Dr. David Boehringer
+- Dipl.-Biomath. Anett Seeland
+- Katharina Gönner, M.Sc.
 
 ---
 
-The documentation contains ... main parts:
+The documentation contains two main parts:
 
-- [Introduction to the SusI Project](project/index.md)
-- ...
+- [Motivation](project/index.md)
+- [Overview over Project](project/project.md)
