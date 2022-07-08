@@ -15,7 +15,7 @@ markdown_extensions:
       alternate_style: true 
 edit_uri: https://github.com/Universitaet-Stuttgart/susi-documentation/tree/master/docs
 repo_url: https://github.com/Universitaet-Stuttgart/susi-documentation
-repo_name: susi-doc
+repo_name: susi-documentation
 copyright: Copyright &copy; Universität Stuttgart
 theme:
   name: material
