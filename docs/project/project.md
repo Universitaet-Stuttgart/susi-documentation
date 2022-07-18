@@ -30,11 +30,11 @@ More information can be found using this Link: [ViPLab](https://virtualprogrammi
 
 ### TODO: Requirements
 
-Wie kann ich das selbst nutzen? Randbediungungen/ was braucht man für Voraussetzungen für die Nutzung?
+How can I use it myself? Boundary conditions/ What is needed for usage (requirements)?
 
 ### TODO: Instructions
 
 ## TODO: Im DaRUS-Kontext:
 
-- Interoperabilität: MetadataMapper und
-- Archivierung: Anbindung zu Software Heritage vorangetrieben
+- Interoperability: MetadataMapper and
+- Archiving: Linkage to Software Heritage was propelled

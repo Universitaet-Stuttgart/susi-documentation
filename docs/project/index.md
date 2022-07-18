@@ -2,10 +2,10 @@
 
 ## TODO:
 
-Was haben wir gemacht? 
+What did we do?? 
 
-Genauer: Warum haben wir das so gemacht? => Idee hinter dem Projekt ( Warum sollte man das nutzen?)
+More precicely: Why did we do it this way? => Idea behind the project (Why should one use it?)
 
-Idee hinter ausführbarem Code => Motivation
+Idea behind exeutable Code => Motivation
 
-Wie kann man davon profitieren? 
+How can one profit from this? 
