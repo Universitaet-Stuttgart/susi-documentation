@@ -28,9 +28,14 @@ More information can be found using this Link: [ViPLab](https://virtualprogrammi
 
 ## How to set up the Project yourself
 
-### TODO: Requirements
+### TODO: Optimal Requirements
 
 How can I use it myself? Boundary conditions/ What is needed for usage (requirements)?
+
+!!! note "Minimal Requirements"
+
+    You can also try it with the following minimal requirements: 
+    ...
 
 ### TODO: Instructions
 

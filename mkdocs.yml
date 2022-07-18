@@ -49,5 +49,6 @@ nav:
   - index.md
   - Motivation: project/index.md
   - Overview: project/project.md
+  - Links: project/links.md
 extra:
   collapse_toc: false
